@@ -8,4 +8,4 @@
 #SBATCH --gres=gpu:1
 module load anaconda3/5.3.0
 source activate jack
-python arima_.py
+python arima_para.py
